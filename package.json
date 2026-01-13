@@ -1,0 +1,17 @@
+{
+  "name": "spec-dof-alpha-from-trrs-wssm",
+  "version": "0.0.0",
+  "description": "Specifying the DOF Alpha schema from explorations of modelb-llc/trrs-wssm",
+  "author": "Mach 30",
+  "license": "CC-BY-4.0",
+  "packageManager": "npm",
+  "workspaces": [
+    "./packages/*",
+    "./packages/@*/*"
+  ],
+  "m30pm": {
+    "versionControlTool": "git",
+    "buildTool": "gradle",
+    "loggingLevel": "error"
+  }
+}
