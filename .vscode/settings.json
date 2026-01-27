@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://www.schemastore.org/yamllint.json": "file:///home/kasm-user/Repos/spec-dof-alpha-from-trrs-wssm/.build_spec/component.yaml"
+    }
+}
