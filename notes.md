@@ -13,3 +13,12 @@ The identified `build/` directory requirements for **DOF Alpha** are
   3. The `build/package/` directory shall contain `build/package/docs/` directory containing Markdown and PDF copies of all generated documents
   4. The `build/package/` directory shall contain a copy of the project's `README.md` file.
   5. The `build/package/` directory shall contain a copy of the project's `LICENSE` file.
+
+## Generating the `component.min.json` file
+
+Prerequisites:
+1. `component.yaml` has been generated
+
+Steps:
+1. Set current working directory to the `build/` directory
+2. Run `yq -o json -I=0 component.yaml > package/component.min.json`
