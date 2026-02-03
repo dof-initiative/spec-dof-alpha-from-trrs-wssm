@@ -1,0 +1,7 @@
+id: solder
+description: Solder
+quantity: 6
+quantityUnits: in
+options: ((options.yaml))
+selectedOption: 0
+notes: ''

@@ -1,0 +1,4 @@
+summary: Place {{parts.wss.description}} on {{parts.trrs-board.description}}
+requiredParts: ((requiredParts.yaml))
+requiredTools: ((requiredTools.yaml))
+details_md_njk: ((details.md.njk))

@@ -1,0 +1,8 @@
+test-stand: ((test-stand/_this.yaml))
+soldering-iron: ((soldering-iron/_this.yaml))
+helping-hands: ((helping-hands/_this.yaml))
+fume-extractor: ((fume-extractor/_this.yaml))
+jig: ((jig/_this.yaml))
+flush-snips: ((flush-snips/_this.yaml))
+scissors: ((scissors/_this.yaml))
+safety-glasses: ((safety-glasses/_this.yaml))

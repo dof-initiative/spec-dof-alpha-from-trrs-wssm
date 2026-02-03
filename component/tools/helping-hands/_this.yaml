@@ -1,0 +1,7 @@
+id: helping-hands
+description: Helping Hands
+quantity: 1
+quantityUnits: part
+options: ((options.yaml))
+selectedOption: 0
+notes: ''

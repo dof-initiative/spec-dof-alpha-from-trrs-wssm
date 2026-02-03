@@ -1,0 +1,7 @@
+id: fume-extractor
+description: Fume Extractor
+quantity: 1
+quantityUnits: part
+options: ((options.yaml))
+selectedOption: 0
+notes: ''

@@ -1,0 +1,7 @@
+id: super-glue
+description: Super Glue
+quantity: 4
+quantityUnits: drops
+options: ((options.yaml))
+selectedOption: 0
+notes: ''

@@ -1,0 +1,7 @@
+id: alcohol
+description: Rubbing Alcohol
+quantity: 1
+quantityUnits: teaspoon
+options: ((options.yaml))
+selectedOption: 0
+notes: 70% to 90% concentration

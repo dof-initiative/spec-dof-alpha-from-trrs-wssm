@@ -9,9 +9,11 @@
     "./packages/*",
     "./packages/@*/*"
   ],
+  "devDependencies": {},
   "m30pm": {
     "versionControlTool": "git",
     "buildTool": "gradle",
-    "loggingLevel": "error"
+    "loggingLevel": "error",
+    "schema": "dofAlpha"
   }
 }

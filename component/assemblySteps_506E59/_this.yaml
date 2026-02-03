@@ -1,0 +1,4 @@
+summary: Solder {{parts.wss.description}} to {{parts.trrs-board.description}}
+requiredParts: ((requiredParts.yaml))
+requiredTools: ((requiredTools.yaml))
+details_md_njk: ((details.md.njk))

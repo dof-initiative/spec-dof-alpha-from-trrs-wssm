@@ -8,6 +8,9 @@
     "type" : "git",
     "url" : "https://github.com/modelb-llc/trrs-wssm.git"
   },
-  "dependencies": {
+  "devDependencies": {
+  },
+  "m30pm": {
+    "schema": "dofAlpha"
   }
 }

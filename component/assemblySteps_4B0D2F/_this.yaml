@@ -1,0 +1,4 @@
+summary: Finish Assembly
+requiredParts: ((requiredParts.yaml))
+requiredTools: ((requiredTools.yaml))
+details_md_njk: ((details.md.njk))

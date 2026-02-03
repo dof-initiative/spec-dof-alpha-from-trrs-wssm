@@ -1,0 +1,9 @@
+id: trrs-board
+description: TRRS Audio Connector on PCB
+quantity: 1
+quantityUnits: part
+options: ((options.yaml))
+selectedOption: 1
+notes: >-
+  Originally designed with Sparkfun board, selected generic board due to
+  significantly lower cost.

@@ -1,0 +1,7 @@
+id: adhesive-tape
+description: Adhesive Tape
+quantity: 0.625
+quantityUnits: in
+options: ((options.yaml))
+selectedOption: 0
+notes: 1 in wide tape, cut to 5/8 in long piece to fit the bottom of the housing.

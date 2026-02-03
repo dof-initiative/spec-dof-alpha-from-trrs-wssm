@@ -1,0 +1,7 @@
+id: cotton-ball
+description: Cotton Ball
+quantity: 1
+quantityUnits: part
+options: ((options.yaml))
+selectedOption: 0
+notes: ''

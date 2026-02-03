@@ -1,0 +1,7 @@
+id: housing-base
+description: Housing Base
+quantity: 1
+quantityUnits: part
+options: ((options.yaml))
+selectedOption: 0
+notes: 3D printed part

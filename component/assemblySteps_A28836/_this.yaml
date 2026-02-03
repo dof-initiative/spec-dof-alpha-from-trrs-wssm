@@ -1,0 +1,4 @@
+summary: Verify {{parts.wss.description}}/{{parts.trrs-board.description}} sub-assembly
+requiredParts: ((requiredParts.yaml))
+requiredTools: ((requiredTools.yaml))
+details_md_njk: ((details.md.njk))
